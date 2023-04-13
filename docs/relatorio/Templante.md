@@ -76,43 +76,18 @@ Nosso público alvo é composto de pessoas com a faixa etária de 23-35 anos que
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa parte utilizamos o medo de Design Thinking para filtrar as personas utilizadas como parâmetros de proposta de valor, além de entrevistas com potenciais usuários e feedbecks interativos que ajudam a esclarecer ideias.
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Toda essa área está disponível e melhor explicada no ambiente miro. Para acessar é só abrir esse link no navegador:https://miro.com/app/board/uXjVMYDTJcA=/
+Como falado em cima, nesse ambiente será detalhado as personas e suas proposta de valores.
 
+1.**Maria Silva** tem 25 anos e é secretária de uma pequena empresa, ela tem dificuldades para controlar seus gastos e frequentemente gasta mais do que ganha e com isso sonha com uma vida em que não precise mais se preocupar com dívidas e possa viver de forma mais tranquila e independente. Maria gostaria de ter uma vida financeira mais estável e segura, com uma poupança para emergências e uma perspectiva de economizar para a aposentadoria. E para ela conseguir tudo isso, tem em mente que vai precisar de ajuda para dquirir conhecimento sobre gestão financeira.
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
-> **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+2.**João da Silva** tem 32 anos e é um trabalhador autônomo que faz pequenos serviços de manutenção e reparo em residências. Ele aprendeu esse ofício com o pai, que também era autônomo, mas nunca teve uma formação técnica na área. João sempre teve dificuldades em controlar suas finanças, mesmo quando trabalhava em empregos formais.Com isso, ele e sua esposa sonham em comprar uma casa própria e ter uma reserva financeira para emergências. João também quer investir em sua empresa de manutenção residencial para poder aumentar sua renda, além de dar uma qualidade de vida melhor para seu filho.
 
+3.**Lucas Araújo** tem 25 anos e está cursando o último período de Engenharia Civil, e por isso é estagiário em uma empresa da área. Ele é determinado, inteligente e criativo. Ele gosta de aprender coisas novas e de se desafiar. Ele também é sociável e comunicativo, mas às vezes se sente inseguro e ansioso. Ele tem como objetivo ter uma visão geral e detalhada de suas receitas e despesas, fazer um planejamento financeiro, definindo metas, orçamentos e limites de gastos, além de conseguir uma ajuda de como gerir suas dívidas. Tudo isso para no futuro realizar seu sonho de trabalhar em uma empresa reconhecida e inovadora na área de engenharia civil, como a Odebrecht ou a Camargo Corrêa e no futuro ter sua própria empresa ou consultoria de engenharia civil.
 
 ## Histórias de Usuários
 
