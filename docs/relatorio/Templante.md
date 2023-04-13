@@ -91,23 +91,28 @@ Como falado em cima, nesse ambiente será detalhado as personas e suas proposta 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Maria da Silva      |de gestão específica                |fazer com que meu balanço mensal seja   |
+|                    |                                    |positivo e que sobre uma certa quantia  |
+|                    |                                    |de dinheiro                             |
+|Maria da Silva      |de conhecimento e ajuda financeira  |quitar minhas dívidas e não acumular    |
+|                    |                                    |mais                                    |
+|Maria da Silva      |recomendações de como guardar pelo  |investir em ativos com baixo risco      |
+|                    |menos 5% da receita que recebo      |                                        |
+|João da Silva       |um modelo de aprimoramento com as   |ter maior conhtrole sobre meu lucro no  |
+|                    |minhas despesas                     |fim do mês                              |
+|João da Silva       |um aconselhamento e conhecimento de |acabar com minhas dívidas pendentes     |
+|                    |gestão                              |                                        |
+|João da SIlva       |de um modelo de carteira recomendado|conseguir uma segunda renda mensal      |          
+|                    |                                    |                                        |
+|Lucas Araújo        |de páginas de indicações financeiras|montar minha carteira de investimentos  |
+|                    |                                    |                                        | 
+|Lucas Araújo        |um modelo de como abaixar minhas    |poder focar no meu futuro e não ficar   |
+|                    |dívidas                             |preso ao passado                        |
+|Lucas Araújo        |de um modelo de carteira de ativos  |ganhar uma renda extra e me ajudar      |
+|                    |                                    |economicamente                          |     
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
