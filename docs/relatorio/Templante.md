@@ -123,10 +123,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|------------------------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre suas informações financeiras e especifique certos tipos de dados | ALTA | 
-|RF-002| Disponibilizar uma página com notícias atuais sobre o mercado econômico | MÉDIA |
+|RF-002| Disponibilizar uma página com notícias atuais sobre o mercado econômico | ALTA |
 |RF-003| Disponibilizar uma página com detalhamento sobre caa tipo de investimento e seus principais ativos | ALTA |
 |RF-004| Recomendações de investimentos a partir do perfil de cada usuário | BAIXA |
-|RF-005| Um espaço destinado a gestão de gastos e receita | ALTO |
+|RF-005| Um espaço destinado a gestão de gastos e receita | ALTa |
 |RF-006| Um sistema de monitoramento da carteira dos usuários | BAIXO |
 |RF-007| Modelos de carteira pré-definidas como exemplo para o usuário | BAIXA |
 |RF-008| Perfis pré-definidos de acordo com as informações de cada usuário | MÉDIA |
