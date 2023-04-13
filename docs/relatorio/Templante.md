@@ -58,72 +58,22 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A maioria da população brasileira não teve uma educação financeira ao longo da vida, e muitas mesmo já tendo ouvido falar sobre esse tema, acham que é de pouca importância e deixam ele de lado. Mas ao contrário do que a maioria dessas pessoas pensam, essa falta de educação financeira acaba prejudicando e muito a vida social, econômica e profissional dessas pessoas e consequentemente de todos aos seu redor. Além disso, é um mercado pouco inflamado pela mídia, ou seja, esse conhecimento não tende a chegar na grande parte da população, deixando a merce esse ramo fundamental da sociedade.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O financiart tem o objetivo de trazer uma gestão finaceira para os usuários, com indicações de investimentos em ativos pressupostos para determinado perfil, além de indicativos de como gerir os gastos e as dívidas, projetando e alinhando os objetivos de cada usuário com sua determinada carteira. E além disso, buscamos um ensinamento educativo sobre o mercado e modos de causar interesse e curiosidade nos usuários. 
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+As principais motivações vieram da grande negligência da sociedade em relação a adquirir conhecimento financeiro e entender como o dinheiro funciona, e do enorme potencial/impacto que essa área pode causar na vida de qualquer cidadão. É nítido que a maioria da população tem problemas com dinheiro, e geralmente nesses casos não é somente pela falta dele, mas sim da má gestão que essas pessoas fazem, deixando acumular dívidas, tendo mais despesas do que lucro, não sabendo como investir para ter umarenda extra, entre outros. Com isso, as pessoas podem escolher entre duas vertentes, fazer com que os dinheiro seja seu aliado, ou torna-lo seu maior inimigo. E é ai que nós(Financiart) entramos...     
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A maioria das pessoas possuem problemas com dinheiro, independente da classe social que ela pertence, por isso, grande parte das pessoas poderiam ser futuros usuários da nossa solução. No entanto, selecionamos um público alvo para focar e conseguir aprofundar as ideias e sugestões.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+Nosso público alvo é composto de pessoas com a faixa etária de 23-35 anos que não possuem educação financeira e estão dispostas a investirem seu dinheiro visando o futuro, além de pessoas radicais que fazem má gestão do dinheiro e por fim pessoas que acham que não conseguem investir por ter um baixo salário.
+
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
