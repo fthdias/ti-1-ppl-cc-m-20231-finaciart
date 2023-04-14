@@ -126,7 +126,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Disponibilizar uma página com notícias atuais sobre o mercado econômico | ALTA |
 |RF-003| Disponibilizar uma página com detalhamento sobre caa tipo de investimento e seus principais ativos | ALTA |
 |RF-004| Recomendações de investimentos a partir do perfil de cada usuário | BAIXA |
-|RF-005| Um espaço destinado a gestão de gastos e receita | ALTa |
+|RF-005| Um espaço destinado a gestão de gastos e receita | ALTA |
 |RF-006| Um sistema de monitoramento da carteira dos usuários | BAIXO |
 |RF-007| Modelos de carteira pré-definidas como exemplo para o usuário | BAIXA |
 |RF-008| Perfis pré-definidos de acordo com as informações de cada usuário | MÉDIA |
@@ -137,7 +137,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em todos os dispositivos | ALTA | 
-|RNF-002| Deve ser acessível para qualquer usuário | ALTA |
+|RNF-002| Deve ser acessível para que qualquer usuário possa se conectar de diversos dispositivos incluindo mais antigos | ALTA |
 |RNF-003| Todo usuário deverá perceber as funcionalidades de cada página sem esforço | MÉDIA |
 |RNF-004| A interface deve ser limpa e passar confiança para o usuário | ALTA |
 |RNF-005| O aplicativo deve ter um padrão de linguagem e uma cor definida e marcante | MÉDIA |
@@ -185,7 +185,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+[Wireframe TI.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-finaciart/files/11228437/Wireframe.TI.pdf)
+
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
