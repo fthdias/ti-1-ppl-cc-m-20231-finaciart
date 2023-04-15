@@ -185,12 +185,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 ![Tela inicial](images/tela-entrada.png)
-![Tela de usuario](images/tela-entrada.png)
+![Tela de usuario](images/tela-user.png)
 ![Tela de cadastro](images/tela-cadastro.png)
 ![Tela de perfis](images/tela_perfis_predefinidos.png)
 ![Edição de perfis](images/editar perfil.png)
 ![Tela de ganhos](images/tela-ganhos.png)
-![Overlay botão de confirmação](images/overlay-x.png)
 ![Overlay botão central](images/botão-central.png)
 ![Tela resumo](images/tela-resumo.png)
 ![Tela investimentos](images/tela-investimentos.png)
@@ -199,24 +198,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![Tela de orçamentos](images/tela-orçamento.png)
 ![Tela de estastistica](images/tela-estastica.png)
 ![Tela barra de pesquisa](images/tela-procurar.png)
-
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
-
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
