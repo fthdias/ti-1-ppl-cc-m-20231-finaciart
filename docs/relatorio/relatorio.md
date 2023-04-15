@@ -184,8 +184,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Wireframes
-
-
+![Tela inicial](images/tela-entrada.png)
+![Tela de usuario](images/tela-entrada.png)
+![Tela de cadastro](images/tela-cadastro.png)
+![Tela de perfis](images/tela_perfis_predefinidos.png)
+![Edição de perfis](images/editar perfil.png)
+![Tela de ganhos](images/tela-ganhos.png)
+![Overlay botão de confirmação](images/overlay-x.png)
+![Overlay botão central](images/botão-central.png)
+![Tela resumo](images/tela-resumo.png)
+![Tela investimentos](images/tela-investimentos.png)
+![Tela despesas](images/tela-despesa.png)
+![Tela de noticias](images/tela-jornal.png)
+![Tela de orçamentos](images/tela-orçamento.png)
+![Tela de estastistica](images/tela-estastica.png)
+![Tela barra de pesquisa](images/tela-procurar.png)
 
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
