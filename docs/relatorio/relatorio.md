@@ -188,7 +188,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![Tela de usuario](images/tela-user.png)
 ![Tela de cadastro](images/tela-cadastro.png)
 ![Tela de perfis](images/tela_perfis_predefinidos.png)
-![Edição de perfis](images/editar perfil.png)
+![Edição de perfis](images/editar.png)
 ![Tela de ganhos](images/tela-ganhos.png)
 ![Overlay botão central](images/botão-central.png)
 ![Tela resumo](images/tela-resumo.png)
@@ -197,7 +197,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![Tela de noticias](images/tela-jornal.png)
 ![Tela de orçamentos](images/tela-orçamento.png)
 ![Tela de estastistica](images/tela-estastica.png)
-![Tela barra de pesquisa](images/tela-procurar.png)
+![Tela barra de pesquisa](images/procurar.png)
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
