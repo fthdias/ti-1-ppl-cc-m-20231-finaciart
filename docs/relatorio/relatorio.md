@@ -218,41 +218,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYDTJcA=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-finaciart | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | Figma |  (https://www.figma.com/file/ZaEeyCCSmwGHb2qUdjBRHC/Wireframe-TI?node-id=0-1&t=bzBAIX5iDiGVfkHs-0) |  
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
+|Hospedagem do site | AWS |  *pendente* | 
+|Protótipo Interativo | Figma |  (https://www.figma.com/file/ZaEeyCCSmwGHb2qUdjBRHC/Wireframe-TI?node-id=0-1&t=bzBAIX5iDiGVfkHs-0) |   
 > As ferramentas empregadas no projeto são:
 > 
 > - Editor de código: Visual code
-> - Ferramentas de comunicação
+> - Ferramentas de comunicação: Discord
 > - Ferramentas de diagramação: Figma
-> - Plataforma de hospedagem:
+> - Plataforma de hospedagem: AWS
 > 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+>O uso do Visual Code é recomendado por ser um editor de código poderoso e versátil, com integração com várias linguagens de programação e recursos de formatação, >depuração e controle de versão.
+>
+>O Discord é uma ferramenta de comunicação em equipe que facilita o compartilhamento de informações e a colaboração em tempo real, com chat de voz e texto e a possibilidade de criar canais específicos para tópicos de discussão.
+>
+>Para diagramação e prototipagem, o Figma é uma ferramenta de design de interface do usuário (UI) com recursos de colaboração em tempo real e bibliotecas de componentes reutilizáveis.
+>
+>A plataforma de hospedagem AWS é altamente escalável e confiável, com uma ampla gama de serviços de hospedagem, incluindo servidores virtuais, bancos de dados e serviços de armazenamento, tornando-se uma excelente escolha para empresas que esperam crescer rapidamente.
 
 ## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
+> foi utilizado para hospedagem do repositório `financiart`.
 > 
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
