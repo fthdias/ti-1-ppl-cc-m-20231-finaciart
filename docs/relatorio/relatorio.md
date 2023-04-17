@@ -156,14 +156,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| Não deve ser feito aportes financeiros no site        |
 
 # Projeto de Interface
-
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
+O projeto tem como objetivo criar uma experiência intuitiva e fácil de usar para ajudar os usuários a gerenciar suas finanças e investimentos.
+A plataforma terá uma série de recursos que vão desde o cadastro das informações financeiras dos usuários até a disponibilização de notícias e detalhamento sobre os tipos de investimento. Além disso, será possível ter um espaço para gestão de gastos e receita, bem como um sistema de recomendações de investimentos baseado no perfil de cada usuário.
+Para atender a essas necessidades, nossa equipe irá desenvolver uma interface moderna e intuitiva, com uma navegação clara e simples. Também será importante ter um sistema de monitoramento da carteira dos usuários e a disponibilização de modelos pré-definidos de carteiras como exemplo.
+Ao final do projeto, esperamos que os usuários tenham uma plataforma confiável e eficaz para gerenciar suas finanças e investimentos de forma fácil e segura. Estamos empolgados em começar esse trabalho e oferecer uma experiência única para nossos usuários.
 ## User Flow
 ![userflow](images/userflow.png)
 ## Wireframes
