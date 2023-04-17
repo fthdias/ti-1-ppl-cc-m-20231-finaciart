@@ -214,12 +214,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYDTJcA=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-finaciart | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | Figma |  (https://www.figma.com/file/ZaEeyCCSmwGHb2qUdjBRHC/Wireframe-TI?node-id=0-1&t=bzBAIX5iDiGVfkHs-0) |  
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -227,10 +225,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
+> - Editor de código: Visual code
 > - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Ferramentas de diagramação: Figma
+> - Plataforma de hospedagem:
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -269,15 +267,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
