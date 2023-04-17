@@ -181,21 +181,8 @@ Ao final do projeto, esperamos que os usuários tenham uma plataforma confiável
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Os três membros do grupo dividem as suas funções de acordo com suas habilidades e personalidades. Vitor Silva é o Scrum Master,além de idealizador do projeto,sendo responsável  por liderar o grupo,fiscalizar se os papéis estão sendo cumpridos além de um importante papel na documentação. O Product Owner é o Fernando Theodoro,que já possui  conhecimentos e experiência na área administrativa,coordena as tarefas e funções e às registram em plataformas como o Trello. Já o Desenvolvimento está sendo gerenciado pelo Gabriel Rezende,que já possui bastante experiência com programação e em plataformas como Github,colocando em prática as idéias da equipe.
+https://trello.com/b/iflPTsCN/financiart
 
 ## Divisão de Papéis
 
